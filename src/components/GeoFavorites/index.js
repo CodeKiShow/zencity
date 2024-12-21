@@ -1,1 +1,1 @@
-// Contenu du composant GeoFavorites
+// Contenu du composant GeoFavorites corrigé avec Clock import
